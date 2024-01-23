@@ -1,4 +1,4 @@
-## Common tasks on DNS using BASH and BIND
+## Common tasks on DNS using BIND
 ---
 
 1. Run separate authoritative and recursive DNS servers 
