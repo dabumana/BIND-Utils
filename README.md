@@ -1,4 +1,4 @@
-## Common tasks on DNS using BIND
+## Common tasks on DNS with BIND using BASH
 ---
 
 1. Run separate authoritative and recursive DNS servers 
@@ -31,9 +31,9 @@
 
 15. DNSSEC Security Components Automation
 
-16. Enable DNSSEC to ensure that DNS responses are digitally signed: 
+16. Enable DNSSEC to ensure that DNS responses are digitally signed 
 
-17. Validate DNS Data Integrity with DNSSEC: 
+17. Validate DNS Data Integrity with DNSSEC
 
 ---
 ### Disclaimer
